@@ -1,0 +1,1443 @@
+{
+  "user_id": "Barani",
+  "created_at": "2026-01-24T01:55:26.450518",
+  "last_updated": "2026-01-24T06:10:04.658720",
+  "student_profile": {
+    "personal_info": {
+      "education": null,
+      "current_year": null,
+      "institution": null
+    },
+    "experience_level": "beginner",
+    "technical_skills": {
+      "programming": [],
+      "web_development": [],
+      "data_science": [],
+      "tools": []
+    },
+    "soft_skills": [],
+    "strength_areas": [],
+    "weakness_areas": [],
+    "learning_capacity": "slow",
+    "risk_factors": [],
+    "projects": [],
+    "experience": null,
+    "profile_confidence": 0.0
+  },
+  "career_goals": {
+    "current_goal": "Data Analyst",
+    "interpreted_goal": {
+      "role_title": "Data Analyst",
+      "role_category": "Data Science",
+      "role_description": "Design, build, and maintain large-scale data systems, ensuring high performance, scalability, and reliability",
+      "required_skills": [
+        "Machine Learning",
+        "Data Engineering",
+        "Cloud Computing",
+        "Programming languages (Java, Python, Rust)",
+        "Frameworks (React, FastAPI, AWS, Kubernetes)"
+      ],
+      "typical_requirements": [
+        "Bachelor's degree in Computer Science, Artificial Intelligence, or related field",
+        "Strong understanding of data structures, algorithms, and software design patterns",
+        "Experience with big data technologies and cloud-based data platforms"
+      ],
+      "typical_responsibilities": [
+        "Designing and implementing data pipelines and architectures",
+        "Developing and maintaining large-scale data systems",
+        "Collaborating with cross-functional teams to integrate data solutions",
+        "Ensuring data quality, security, and compliance"
+      ],
+      "goal_clarity_score": 0.9,
+      "commitment_level": "high",
+      "time_to_competency_months": 12,
+      "interpretation_notes": "The target role 'Senior Data Engineer' is specific and well-defined, with a clear understanding of the required skills, responsibilities, and typical requirements. The goal clarity score is high due to the detailed information provided in the input JSON."
+    },
+    "goal_history": [],
+    "goal_clarity_score": 0.9,
+    "commitment_level": "high"
+  },
+  "readiness": {
+    "confidence_score": 0.45,
+    "deviation_risk": "high",
+    "weak_areas": [
+      "programming skills",
+      "data science knowledge",
+      "experience"
+    ],
+    "diagnostic_questions": [
+      {
+        "question_number": 1,
+        "question": "What is the primary function of a data engineer in an organization?",
+        "purpose": "Understanding the role of a data engineer",
+        "category": "conceptual"
+      },
+      {
+        "question_number": 2,
+        "question": "How do you optimize the performance of a database for large-scale data processing?",
+        "purpose": "Technical knowledge of database optimization",
+        "category": "technical"
+      },
+      {
+        "question_number": 3,
+        "question": "What are the key differences between a data warehouse and a data lake?",
+        "purpose": "Understanding data storage concepts",
+        "category": "conceptual"
+      },
+      {
+        "question_number": 4,
+        "question": "How do you handle data security and access control in a cloud-based data engineering project?",
+        "purpose": "Practical awareness of data security",
+        "category": "practical"
+      },
+      {
+        "question_number": 5,
+        "question": "What are some common data processing frameworks used in big data analytics?",
+        "purpose": "Technical knowledge of data processing frameworks",
+        "category": "technical"
+      }
+    ],
+    "diagnostic_answers": [
+      "Primary function of data engineer is to manage data and process it",
+      "so , we can preprocess it and then process it",
+      "data warehouse is collection of organisation's data whereas data lake is much bigger",
+      "using kubernetes",
+      "pandas, numpy, tableau"
+    ],
+    "readiness_verdict": "not_ready",
+    "last_assessed": "2026-01-24T06:10:04.634708"
+  },
+  "market_context": {
+    "target_role_analysis": {
+      "role_title": "Senior Data Engineer",
+      "demand_score": 85,
+      "competition_level": "medium",
+      "entry_barrier": "high",
+      "market_trend": "growing",
+      "avg_salary_range_usd": "110k-140k",
+      "required_experience_years": "5-7",
+      "key_hiring_companies": [
+        "Google",
+        "Amazon",
+        "Microsoft"
+      ],
+      "in_demand_skills": [
+        "Machine Learning",
+        "Cloud Computing",
+        "Data Engineering"
+      ],
+      "market_saturation": "low",
+      "job_availability": "abundant",
+      "adjacent_safer_roles": [
+        {
+          "role": "Data Analyst",
+          "reason": "Less specialized and requires fewer years of experience",
+          "demand_score": 80,
+          "entry_barrier": "medium"
+        },
+        {
+          "role": "Junior Data Engineer",
+          "reason": "Entry-level position with a clearer path to senior roles",
+          "demand_score": 75,
+          "entry_barrier": "low"
+        },
+        {
+          "role": "Business Intelligence Developer",
+          "reason": "Similar skills required, but with a focus on business applications",
+          "demand_score": 80,
+          "entry_barrier": "medium"
+        }
+      ],
+      "market_notes": "The demand for Senior Data Engineers is high, driven by the growing need for data-driven decision making and the increasing adoption of cloud-based technologies.",
+      "last_updated": "2026-01-23"
+    },
+    "last_market_check": "2026-01-24T01:55:45.796360",
+    "market_trends": [
+      {
+        "role": "Senior Data Engineer",
+        "demand_score": 85,
+        "trend": "growing",
+        "timestamp": "2026-01-23"
+      }
+    ]
+  },
+  "active_path": {
+    "path_id": "8cc193d2-4bb0-4ee8-a812-168404f2c333",
+    "target_role": "Data Analyst",
+    "primary_path": {
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Learn Programming Fundamentals",
+          "description": "Learn the basics of programming using Python",
+          "skills_to_learn": [
+            "Python",
+            "Data Structures",
+            "Algorithms"
+          ],
+          "resources": [
+            "Codecademy",
+            "LeetCode"
+          ],
+          "duration_weeks": 4,
+          "success_criteria": "Complete 50 exercises on LeetCode",
+          "difficulty": "medium"
+        },
+        {
+          "step_number": 2,
+          "title": "Data Science Basics",
+          "description": "Learn the basics of data science using Python",
+          "skills_to_learn": [
+            "Pandas",
+            "NumPy",
+            "Matplotlib"
+          ],
+          "resources": [
+            "DataCamp",
+            "Kaggle"
+          ],
+          "duration_weeks": 4,
+          "success_criteria": "Complete 3 projects on Kaggle",
+          "difficulty": "medium"
+        },
+        {
+          "step_number": 3,
+          "title": "Data Engineering Fundamentals",
+          "description": "Learn the basics of data engineering using AWS",
+          "skills_to_learn": [
+            "AWS",
+            "Cloud Computing",
+            "Data Pipelines"
+          ],
+          "resources": [
+            "AWS Training",
+            "Data Engineering Handbook"
+          ],
+          "duration_weeks": 4,
+          "success_criteria": "Complete 2 projects on AWS",
+          "difficulty": "hard"
+        },
+        {
+          "step_number": 4,
+          "title": "Machine Learning and Advanced Topics",
+          "description": "Learn advanced topics in machine learning and data engineering",
+          "skills_to_learn": [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing"
+          ],
+          "resources": [
+            "Coursera",
+            "edX"
+          ],
+          "duration_weeks": 8,
+          "success_criteria": "Complete 5 projects on GitHub",
+          "difficulty": "hard"
+        }
+      ],
+      "total_weeks": 20,
+      "key_milestones": [
+        "Complete 50 exercises on LeetCode",
+        "Complete 3 projects on Kaggle",
+        "Complete 2 projects on AWS"
+      ]
+    },
+    "fallback_paths": [
+      {
+        "alternative_role": "Data Analyst",
+        "reason": "Less specialized and requires fewer years of experience",
+        "easier_than_primary": true,
+        "steps_summary": [
+          "Learn Excel and Data Visualization",
+          "Learn SQL and Data Querying",
+          "Learn Data Analysis and Statistics"
+        ]
+      },
+      {
+        "alternative_role": "Junior Data Engineer",
+        "reason": "Entry-level position with a clearer path to senior roles",
+        "easier_than_primary": true,
+        "steps_summary": [
+          "Learn Programming Fundamentals",
+          "Learn Data Science Basics",
+          "Learn Data Engineering Fundamentals"
+        ]
+      },
+      {
+        "alternative_role": "Business Intelligence Developer",
+        "reason": "Similar skills required, but with a focus on business applications",
+        "easier_than_primary": true,
+        "steps_summary": [
+          "Learn Data Visualization and Reporting",
+          "Learn Business Intelligence Tools",
+          "Learn Data Analysis and Statistics"
+        ]
+      }
+    ],
+    "success_probability": 0.8,
+    "created_at": "2026-01-24T05:28:52.737339",
+    "status": "not_started",
+    "original_target_role": "Senior Data Engineer",
+    "path_change_history": [
+      {
+        "timestamp": "2026-01-24T03:52:36.962887",
+        "type": "alternative",
+        "from_role": "Senior Data Engineer",
+        "to_role": "Data Analyst",
+        "option_index": null,
+        "success_probability": 0.8,
+        "reason": "User selected after rerouting analysis"
+      },
+      {
+        "timestamp": "2026-01-24T03:56:19.507420",
+        "type": "alternative",
+        "from_role": "Senior Data Engineer",
+        "to_role": "Junior Data Engineer",
+        "option_index": null,
+        "success_probability": 0.75,
+        "reason": "User selected after rerouting analysis"
+      },
+      {
+        "timestamp": "2026-01-24T05:28:50.826216",
+        "type": "alternative",
+        "from_role": "Senior Data Engineer",
+        "to_role": "Data Analyst",
+        "option_index": null,
+        "success_probability": 0.8,
+        "reason": "User selected after rerouting analysis"
+      },
+      {
+        "timestamp": "2026-01-24T05:40:52.496325",
+        "type": "alternative",
+        "from_role": "Senior Data Engineer",
+        "to_role": "Data Analyst",
+        "option_index": null,
+        "success_probability": 0.8,
+        "reason": "User selected after rerouting analysis"
+      }
+    ],
+    "current_path_type": "alternative"
+  },
+  "roadmap": {
+    "roadmap_id": "1d798056-ba79-457d-ae7f-2920056dba0b",
+    "total_steps": 4,
+    "steps": [
+      {
+        "step_number": 1,
+        "title": "Foundational Programming Skills",
+        "description": "Learn the basics of programming using Python",
+        "skills_to_learn": [
+          "Python",
+          "Data Structures",
+          "Algorithms"
+        ],
+        "resources": [
+          "Codecademy Python Course",
+          "Python Crash Course Book"
+        ],
+        "duration_weeks": 4,
+        "success_criteria": "Complete a series of programming challenges on platforms like LeetCode or HackerRank",
+        "difficulty": "medium",
+        "completion_percentage": 0.0
+      },
+      {
+        "step_number": 2,
+        "title": "Data Science Fundamentals",
+        "description": "Learn the basics of data science, including data engineering and machine learning",
+        "skills_to_learn": [
+          "Data Science",
+          "Machine Learning",
+          "Data Engineering"
+        ],
+        "resources": [
+          "Data Science Specialization on Coursera",
+          "Data Engineering Book"
+        ],
+        "duration_weeks": 6,
+        "success_criteria": "Complete a data science project using a dataset from Kaggle",
+        "difficulty": "hard"
+      },
+      {
+        "step_number": 3,
+        "title": "Cloud Computing and Big Data",
+        "description": "Learn about cloud computing and big data technologies, including AWS and Kubernetes",
+        "skills_to_learn": [
+          "Cloud Computing",
+          "Big Data",
+          "AWS",
+          "Kubernetes"
+        ],
+        "resources": [
+          "AWS Certification Course",
+          "Kubernetes Documentation"
+        ],
+        "duration_weeks": 6,
+        "success_criteria": "Deploy a big data application on a cloud platform",
+        "difficulty": "hard"
+      },
+      {
+        "step_number": 4,
+        "title": "Senior Data Engineer Role Preparation",
+        "description": "Prepare for the senior data engineer role by learning about data architecture, data quality, and data security",
+        "skills_to_learn": [
+          "Data Architecture",
+          "Data Quality",
+          "Data Security"
+        ],
+        "resources": [
+          "Data Architecture Book",
+          "Data Quality Course"
+        ],
+        "duration_weeks": 4,
+        "success_criteria": "Design and implement a data architecture for a fictional company",
+        "difficulty": "medium"
+      }
+    ],
+    "current_step_number": 1,
+    "completed_steps": [],
+    "created_at": "2026-01-24T01:55:52.972549",
+    "status": "generated"
+  },
+  "reroute_state": {
+    "is_rerouting": false,
+    "original_roadmap_id": null,
+    "alternative_roadmaps": [],
+    "selected_alternative_id": null,
+    "alternative_completion_percentage": 0.0,
+    "redirect_to_step": null,
+    "reroute_timestamp": null,
+    "reroute_reason": null
+  },
+  "progress": {
+    "completed_steps": [],
+    "current_step": null,
+    "blockers": [],
+    "time_spent_hours": 0.0,
+    "completion_rate": 0.2,
+    "last_activity": "2026-01-24T06:10:04.647709",
+    "active_stage": 1,
+    "stage_completion_rate": 0.8888888888888888,
+    "stage_progression_history": [],
+    "next_stage_generated_at": null,
+    "next_action_allocated": "Read Python Crash Course book chapters 1-3",
+    "last_allocation_time": "2026-01-24T04:10:12.489795"
+  },
+  "reroute_history": {
+    "failed_paths": [
+      {
+        "path_id": "1d798056-ba79-457d-ae7f-2920056dba0b",
+        "target_role": "Senior Data Engineer",
+        "failure_type": "skill_gap",
+        "timestamp": "2026-01-24T03:43:20.835522"
+      },
+      {
+        "path_id": "1d798056-ba79-457d-ae7f-2920056dba0b",
+        "target_role": "Senior Data Engineer",
+        "failure_type": "skill_gap",
+        "timestamp": "2026-01-24T03:43:27.495007"
+      },
+      {
+        "path_id": "1d798056-ba79-457d-ae7f-2920056dba0b",
+        "target_role": "Senior Data Engineer",
+        "failure_type": "skill_gap",
+        "timestamp": "2026-01-24T03:43:39.061467"
+      },
+      {
+        "path_id": "1d798056-ba79-457d-ae7f-2920056dba0b",
+        "target_role": "Senior Data Engineer",
+        "failure_type": "skill_gap",
+        "timestamp": "2026-01-24T03:43:41.135645"
+      }
+    ],
+    "reroute_reasons": [
+      {
+        "reason": [
+          "Lack of programming skills",
+          "Insufficient data science knowledge"
+        ],
+        "timestamp": "2026-01-24T03:43:20.837518"
+      },
+      {
+        "reason": [
+          "Lack of programming skills",
+          "Insufficient data science knowledge"
+        ],
+        "timestamp": "2026-01-24T03:43:27.497007"
+      },
+      {
+        "reason": [
+          "Lack of programming skills",
+          "Insufficient data science knowledge"
+        ],
+        "timestamp": "2026-01-24T03:43:39.063488"
+      },
+      {
+        "reason": [
+          "Lack of programming skills",
+          "Insufficient data science knowledge"
+        ],
+        "timestamp": "2026-01-24T03:43:41.138652"
+      }
+    ],
+    "alternative_suggestions": [
+      {
+        "new_target_role": "Data Analyst",
+        "why_better_fit": "Less specialized and requires fewer years of experience",
+        "leverages_existing_progress": true,
+        "existing_skills_applicable": [
+          "Python basics",
+          "Data analysis concepts"
+        ],
+        "additional_skills_needed": [
+          "Data visualization tools",
+          "Statistical analysis"
+        ],
+        "success_probability": 0.75,
+        "estimated_duration_months": 9
+      },
+      {
+        "new_target_role": "Junior Data Engineer",
+        "why_better_fit": "Entry-level position with a clearer path to senior roles",
+        "leverages_existing_progress": true,
+        "existing_skills_applicable": [
+          "Python basics",
+          "Data analysis concepts"
+        ],
+        "additional_skills_needed": [
+          "Data engineering fundamentals",
+          "Cloud computing"
+        ],
+        "success_probability": 0.7,
+        "estimated_duration_months": 12
+      },
+      {
+        "new_target_role": "Data Analyst",
+        "why_better_fit": "Less specialized and requires fewer years of experience",
+        "leverages_existing_progress": true,
+        "existing_skills_applicable": [
+          "Python basics",
+          "Data analysis concepts"
+        ],
+        "additional_skills_needed": [
+          "Data visualization tools",
+          "Statistical analysis"
+        ],
+        "success_probability": 0.75,
+        "estimated_duration_months": 9
+      },
+      {
+        "new_target_role": "Junior Data Engineer",
+        "why_better_fit": "Entry-level position with a clearer path to senior roles",
+        "leverages_existing_progress": true,
+        "existing_skills_applicable": [
+          "Python basics",
+          "Data analysis concepts"
+        ],
+        "additional_skills_needed": [
+          "Data engineering fundamentals",
+          "Cloud computing"
+        ],
+        "success_probability": 0.7,
+        "estimated_duration_months": 12
+      },
+      {
+        "new_target_role": "Data Analyst",
+        "why_better_fit": "Less specialized and requires fewer years of experience",
+        "leverages_existing_progress": true,
+        "existing_skills_applicable": [
+          "Python basics",
+          "Data analysis concepts"
+        ],
+        "additional_skills_needed": [
+          "Data visualization tools",
+          "Statistical analysis"
+        ],
+        "success_probability": 0.75,
+        "estimated_duration_months": 9
+      },
+      {
+        "new_target_role": "Junior Data Engineer",
+        "why_better_fit": "Entry-level position with a clearer path to senior roles",
+        "leverages_existing_progress": true,
+        "existing_skills_applicable": [
+          "Python basics",
+          "Data analysis concepts"
+        ],
+        "additional_skills_needed": [
+          "Data engineering fundamentals",
+          "Cloud computing"
+        ],
+        "success_probability": 0.7,
+        "estimated_duration_months": 12
+      },
+      {
+        "new_target_role": "Data Analyst",
+        "why_better_fit": "Less specialized and requires fewer years of experience",
+        "leverages_existing_progress": true,
+        "existing_skills_applicable": [
+          "Python basics",
+          "Data analysis concepts"
+        ],
+        "additional_skills_needed": [
+          "Data visualization tools",
+          "Statistical analysis"
+        ],
+        "success_probability": 0.75,
+        "estimated_duration_months": 9
+      },
+      {
+        "new_target_role": "Junior Data Engineer",
+        "why_better_fit": "Entry-level position with a clearer path to senior roles",
+        "leverages_existing_progress": true,
+        "existing_skills_applicable": [
+          "Python basics",
+          "Data analysis concepts"
+        ],
+        "additional_skills_needed": [
+          "Data engineering fundamentals",
+          "Cloud computing"
+        ],
+        "success_probability": 0.7,
+        "estimated_duration_months": 12
+      }
+    ],
+    "reroute_count": 8,
+    "selected_alternative": {
+      "selected_role": "Data Analyst",
+      "timestamp": "2026-01-24T05:40:52.496325",
+      "type": "alternative"
+    },
+    "applied_changes": [
+      {
+        "timestamp": "2026-01-24T03:52:36.962887",
+        "change": "Applied alternative: Data Analyst"
+      },
+      {
+        "timestamp": "2026-01-24T03:56:19.507420",
+        "change": "Applied alternative: Junior Data Engineer"
+      },
+      {
+        "timestamp": "2026-01-24T05:28:50.826216",
+        "change": "Applied alternative: Data Analyst"
+      },
+      {
+        "timestamp": "2026-01-24T05:40:52.496325",
+        "change": "Applied alternative: Data Analyst"
+      }
+    ]
+  },
+  "current_actions": {
+    "pending_actions": [
+      {
+        "action_id": "action_1",
+        "title": "Complete Codecademy Python Course modules 1-3",
+        "description": "Finish the first three modules of the Codecademy Python course to build foundational programming skills",
+        "type": "learning",
+        "estimated_hours": 12,
+        "estimated_days": 4,
+        "priority": "high",
+        "impact_score": 8,
+        "effort_score": 5,
+        "prerequisites": [],
+        "success_criteria": "Complete modules 1-3 with a score of 80% or higher",
+        "resources": [
+          {
+            "title": "Codecademy Python Course",
+            "url": "https://www.codecademy.com/learn/learn-python",
+            "type": "course"
+          }
+        ],
+        "tips": [
+          "Practice coding every day",
+          "Join online communities for support"
+        ],
+        "stage": 1,
+        "status": "pending"
+      },
+      {
+        "action_id": "action_2",
+        "title": "Practice Python coding challenges on LeetCode",
+        "description": "Complete 10 easy-level Python coding challenges on LeetCode to practice problem-solving skills",
+        "type": "practice",
+        "estimated_hours": 10,
+        "estimated_days": 5,
+        "priority": "medium",
+        "impact_score": 7,
+        "effort_score": 6,
+        "prerequisites": [
+          "action_1"
+        ],
+        "success_criteria": "Complete 10 challenges with a score of 70% or higher",
+        "resources": [
+          {
+            "title": "LeetCode",
+            "url": "https://leetcode.com/",
+            "type": "tool"
+          }
+        ],
+        "tips": [
+          "Start with easy challenges",
+          "Use online resources to help with difficult problems"
+        ],
+        "stage": 1,
+        "status": "pending"
+      },
+      {
+        "action_id": "action_3",
+        "title": "Read Python Crash Course book chapters 1-3",
+        "description": "Read the first three chapters of the Python Crash Course book to learn Python basics",
+        "type": "learning",
+        "estimated_hours": 15,
+        "estimated_days": 5,
+        "priority": "medium",
+        "impact_score": 6,
+        "effort_score": 7,
+        "prerequisites": [],
+        "success_criteria": "Complete reading chapters 1-3 and take notes",
+        "resources": [
+          {
+            "title": "Python Crash Course book",
+            "url": "https://www.amazon.com/Python-Crash-Course-2nd-Edition",
+            "type": "book"
+          }
+        ],
+        "tips": [
+          "Take notes while reading",
+          "Practice coding examples from the book"
+        ],
+        "stage": 1,
+        "status": "pending"
+      }
+    ],
+    "completed_actions": [
+      {
+        "action_id": "action_1",
+        "title": "Complete Codecademy Python Course modules 1-3",
+        "description": "Finish the first three modules of the Codecademy Python course to build foundational programming skills",
+        "type": "learning",
+        "estimated_hours": 12,
+        "estimated_days": 4,
+        "priority": "high",
+        "impact_score": 8,
+        "effort_score": 5,
+        "prerequisites": [],
+        "success_criteria": "Complete modules 1-3 with a score of 80% or higher",
+        "resources": [
+          {
+            "title": "Codecademy Python Course",
+            "url": "https://www.codecademy.com/learn/learn-python",
+            "type": "course"
+          }
+        ],
+        "tips": [
+          "Practice coding every day",
+          "Join online communities for support"
+        ],
+        "stage": 1,
+        "status": "completed",
+        "attempts": 32,
+        "questions": [
+          "What is the basic syntax for printing output in Python?",
+          "Write a simple Python program to print 'Hello World'?",
+          "What is the purpose of the 'def' keyword in Python?",
+          "How do you assign a value to a variable in Python?",
+          "What is the difference between the '=' and '==' operators in Python?"
+        ],
+        "user_answers": [],
+        "relevance_score": 1.0,
+        "agent_satisfied": true,
+        "completion_timestamp": "2026-01-24T03:35:44.672640"
+      },
+      {
+        "action_id": "action_2",
+        "title": "Practice Python coding challenges on LeetCode",
+        "description": "Complete 10 easy-level Python coding challenges on LeetCode to practice problem-solving skills",
+        "type": "practice",
+        "estimated_hours": 10,
+        "estimated_days": 5,
+        "priority": "medium",
+        "impact_score": 7,
+        "effort_score": 6,
+        "prerequisites": [
+          "action_1"
+        ],
+        "success_criteria": "Complete 10 challenges with a score of 70% or higher",
+        "resources": [
+          {
+            "title": "LeetCode",
+            "url": "https://leetcode.com/",
+            "type": "tool"
+          }
+        ],
+        "tips": [
+          "Start with easy challenges",
+          "Use online resources to help with difficult problems"
+        ],
+        "stage": 1,
+        "status": "in_progress",
+        "attempts": 1,
+        "questions": [
+          "What is the purpose of using the 'def' keyword in Python?",
+          "Can you write a Python function to reverse a string?",
+          "How do you handle edge cases in LeetCode challenges?",
+          "What is the time complexity of the binary search algorithm?",
+          "Can you explain how to optimize a Python solution for a LeetCode challenge with a high score?"
+        ],
+        "user_answers": [
+          "dont know",
+          "dont know",
+          "dont know",
+          "dont know",
+          "dont know"
+        ],
+        "relevance_score": 0.0,
+        "agent_satisfied": false
+      },
+      {
+        "action_id": "action_3",
+        "title": "Read Python Crash Course book chapters 1-3",
+        "description": "Read the first three chapters of the Python Crash Course book to learn Python basics",
+        "type": "learning",
+        "estimated_hours": 15,
+        "estimated_days": 5,
+        "priority": "medium",
+        "impact_score": 6,
+        "effort_score": 7,
+        "prerequisites": [],
+        "success_criteria": "Complete reading chapters 1-3 and take notes",
+        "resources": [
+          {
+            "title": "Python Crash Course book",
+            "url": "https://www.amazon.com/Python-Crash-Course-2nd-Edition",
+            "type": "book"
+          }
+        ],
+        "tips": [
+          "Take notes while reading",
+          "Practice coding examples from the book"
+        ],
+        "stage": 1,
+        "status": "pending"
+      },
+      {
+        "action_id": "action_4",
+        "title": "Complete Codecademy Python Course modules 4-6",
+        "description": "Finish the next three modules of the Codecademy Python course to build foundational programming skills",
+        "type": "learning",
+        "estimated_hours": 12,
+        "estimated_days": 4,
+        "priority": "high",
+        "impact_score": 8,
+        "effort_score": 5,
+        "prerequisites": [
+          "action_1"
+        ],
+        "success_criteria": "Complete modules 4-6 with a score of 80% or higher",
+        "resources": [
+          {
+            "title": "Codecademy Python Course",
+            "url": "https://www.codecademy.com/learn/learn-python",
+            "type": "course"
+          }
+        ],
+        "tips": [
+          "Practice coding every day",
+          "Join online communities for support"
+        ],
+        "stage": 1,
+        "status": "pending"
+      },
+      {
+        "action_id": "action_5",
+        "title": "Practice Python coding challenges on LeetCode",
+        "description": "Complete 10 easy-level Python coding challenges on LeetCode to practice problem-solving skills",
+        "type": "practice",
+        "estimated_hours": 10,
+        "estimated_days": 5,
+        "priority": "medium",
+        "impact_score": 7,
+        "effort_score": 6,
+        "prerequisites": [
+          "action_1"
+        ],
+        "success_criteria": "Complete 10 challenges with a score of 70% or higher",
+        "resources": [
+          {
+            "title": "LeetCode",
+            "url": "https://leetcode.com/",
+            "type": "tool"
+          }
+        ],
+        "tips": [
+          "Start with easy challenges",
+          "Use online resources to help with difficult problems"
+        ],
+        "stage": 1,
+        "status": "pending"
+      },
+      {
+        "action_id": "action_6",
+        "title": "Read Python Crash Course book chapters 4-6",
+        "description": "Read the next three chapters of the Python Crash Course book to learn Python basics",
+        "type": "learning",
+        "estimated_hours": 15,
+        "estimated_days": 5,
+        "priority": "medium",
+        "impact_score": 6,
+        "effort_score": 7,
+        "prerequisites": [],
+        "success_criteria": "Complete reading chapters 4-6 and take notes",
+        "resources": [
+          {
+            "title": "Python Crash Course book",
+            "url": "https://www.amazon.com/Python-Crash-Course-2nd-Edition",
+            "type": "book"
+          }
+        ],
+        "tips": [
+          "Take notes while reading",
+          "Practice coding examples from the book"
+        ],
+        "stage": 1,
+        "status": "pending"
+      },
+      {
+        "action_id": "action_1",
+        "title": "Complete Codecademy Python Course modules 1-3",
+        "description": "Finish the first three modules of the Codecademy Python course to build foundational programming skills",
+        "type": "learning",
+        "estimated_hours": 12,
+        "estimated_days": 4,
+        "priority": "high",
+        "impact_score": 8,
+        "effort_score": 5,
+        "prerequisites": [],
+        "success_criteria": "Complete modules 1-3 with a score of 80% or higher",
+        "resources": [
+          {
+            "title": "Codecademy Python Course",
+            "url": "https://www.codecademy.com/learn/learn-python",
+            "type": "course"
+          }
+        ],
+        "tips": [
+          "Practice coding every day",
+          "Join online communities for support"
+        ],
+        "stage": 1,
+        "status": "completed",
+        "attempts": 1,
+        "questions": [
+          "What is the basic syntax for printing output in Python?",
+          "What is the purpose of the 'def' keyword in Python?",
+          "How do you assign a value to a variable in Python?",
+          "Write a simple Python function that takes a name as input and prints out a greeting?",
+          "What is the difference between the '=' and '==' operators in Python?"
+        ],
+        "completion_timestamp": "2026-01-24T04:02:24.149801",
+        "relevance_score": 1.0,
+        "agent_satisfied": true,
+        "user_answers": []
+      },
+      {
+        "action_id": "action_2",
+        "title": "Practice Python coding challenges on LeetCode",
+        "description": "Complete 10 easy-level Python coding challenges on LeetCode to practice problem-solving skills",
+        "type": "practice",
+        "estimated_hours": 10,
+        "estimated_days": 5,
+        "priority": "medium",
+        "impact_score": 7,
+        "effort_score": 6,
+        "prerequisites": [
+          "action_1"
+        ],
+        "success_criteria": "Complete 10 challenges with a score of 70% or higher",
+        "resources": [
+          {
+            "title": "LeetCode",
+            "url": "https://leetcode.com/",
+            "type": "tool"
+          }
+        ],
+        "tips": [
+          "Start with easy challenges",
+          "Use online resources to help with difficult problems"
+        ],
+        "stage": 1,
+        "status": "completed",
+        "completion_timestamp": "2026-01-24T04:10:12.480813",
+        "relevance_score": 1.0,
+        "agent_satisfied": true,
+        "user_answers": []
+      },
+      {
+        "action_id": "action_3",
+        "title": "Read Python Crash Course book chapters 1-3",
+        "description": "Read the first three chapters of the Python Crash Course book to learn Python basics",
+        "type": "learning",
+        "estimated_hours": 15,
+        "estimated_days": 5,
+        "priority": "medium",
+        "impact_score": 6,
+        "effort_score": 7,
+        "prerequisites": [],
+        "success_criteria": "Complete reading chapters 1-3 and take notes",
+        "resources": [
+          {
+            "title": "Python Crash Course book",
+            "url": "https://www.amazon.com/Python-Crash-Course-2nd-Edition",
+            "type": "book"
+          }
+        ],
+        "tips": [
+          "Take notes while reading",
+          "Practice coding examples from the book"
+        ],
+        "stage": 1,
+        "status": "pending",
+        "attempts": 1,
+        "questions": [
+          "What is the main topic covered in Chapter 1 of Python Crash Course?",
+          "Write a simple Python program to print 'Hello World' using concepts from Chapter 2?",
+          "What is the purpose of the 'print()' function in Python as discussed in Chapter 1?",
+          "How do you assign a string value to a variable in Python, as explained in Chapter 3?",
+          "What data type is used to store a collection of items in Python, as introduced in Chapter 2?"
+        ],
+        "user_answers": [
+          "dont know",
+          "dont know",
+          "dont know",
+          "dont know",
+          "dont know"
+        ],
+        "relevance_score": 0.0,
+        "agent_satisfied": false
+      },
+      {
+        "action_id": "action_1",
+        "title": "Complete Codecademy Python Course modules 1-3",
+        "description": "Finish the first three modules of the Codecademy Python course to build foundational programming skills",
+        "type": "learning",
+        "estimated_hours": 12,
+        "estimated_days": 4,
+        "priority": "high",
+        "impact_score": 8,
+        "effort_score": 5,
+        "prerequisites": [],
+        "success_criteria": "Complete modules 1-3 with a score of 80% or higher",
+        "resources": [
+          {
+            "title": "Codecademy Python Course",
+            "url": "https://www.codecademy.com/learn/learn-python",
+            "type": "course"
+          }
+        ],
+        "tips": [
+          "Practice coding every day",
+          "Join online communities for support"
+        ],
+        "stage": 1,
+        "status": "pending"
+      },
+      {
+        "action_id": "action_2",
+        "title": "Practice Python coding challenges on LeetCode",
+        "description": "Complete 10 easy-level Python coding challenges on LeetCode to practice problem-solving skills",
+        "type": "practice",
+        "estimated_hours": 10,
+        "estimated_days": 5,
+        "priority": "medium",
+        "impact_score": 7,
+        "effort_score": 6,
+        "prerequisites": [
+          "action_1"
+        ],
+        "success_criteria": "Complete 10 challenges with a score of 70% or higher",
+        "resources": [
+          {
+            "title": "LeetCode",
+            "url": "https://leetcode.com/",
+            "type": "tool"
+          }
+        ],
+        "tips": [
+          "Start with easy challenges",
+          "Use online resources to help with difficult problems"
+        ],
+        "stage": 1,
+        "status": "pending"
+      },
+      {
+        "action_id": "action_3",
+        "title": "Read Python Crash Course book chapters 1-3",
+        "description": "Read the first three chapters of the Python Crash Course book to learn Python basics",
+        "type": "learning",
+        "estimated_hours": 15,
+        "estimated_days": 5,
+        "priority": "medium",
+        "impact_score": 6,
+        "effort_score": 7,
+        "prerequisites": [],
+        "success_criteria": "Complete reading chapters 1-3 and take notes",
+        "resources": [
+          {
+            "title": "Python Crash Course book",
+            "url": "https://www.amazon.com/Python-Crash-Course-2nd-Edition",
+            "type": "book"
+          }
+        ],
+        "tips": [
+          "Take notes while reading",
+          "Practice coding examples from the book"
+        ],
+        "stage": 1,
+        "status": "pending"
+      }
+    ],
+    "priority_actions": [
+      "action_1"
+    ]
+  },
+  "metadata": {
+    "total_sessions": 0,
+    "agent_interaction_count": {
+      "Student Profiling Agent": 1,
+      "Goal Interpretation Agent": 1,
+      "Goal Readiness & Confidence Assessment Agent": 1,
+      "Market Intelligence Agent": 1,
+      "Career Path Planning Agent": 4,
+      "Action & Recommendation Agent": 5,
+      "Feedback & Learning Agent": 9,
+      "Re-Routing & Failure Detection Agent": 4
+    },
+    "system_events": [
+      {
+        "agent": "Student Profiling Agent",
+        "event_type": "profile_analyzed",
+        "timestamp": "2026-01-24T01:55:27.162123",
+        "details": {
+          "experience_level": "beginner",
+          "skills_count": 4
+        }
+      },
+      {
+        "agent": "Goal Interpretation Agent",
+        "event_type": "goal_interpreted",
+        "timestamp": "2026-01-24T01:55:33.413910",
+        "details": {
+          "original_goal": {
+            "experience_level": "Fresh Graduate",
+            "learning_capacity": "High",
+            "education": "Bachelors in Artificial Intelligence And Data science",
+            "specialization": "ML engineer",
+            "years_experience": 0,
+            "location": "India",
+            "programming_langs": [
+              "Java",
+              "Python",
+              "Rust"
+            ],
+            "frameworks": [
+              "React",
+              "Others",
+              "FastAPI",
+              "AWS",
+              "Kubernetes"
+            ],
+            "strength_areas": [
+              "Problem Solving",
+              "System Design",
+              "Code Quality",
+              "Leadership",
+              "Communication"
+            ],
+            "risk_factors": [
+              "Time constraints"
+            ],
+            "target_role": "Senior Data Engineer",
+            "motivation": 7,
+            "projects": [
+              "Built several ML, DL models",
+              "built new Transformer"
+            ],
+            "timeline_months": 12,
+            "weekly_commitment": "10-15 hours/week",
+            "availability": "Full-time",
+            "learning_style": [
+              "Hands-on projects",
+              "Online courses",
+              "Mentoring",
+              "Books",
+              "Videos",
+              "Workshops"
+            ],
+            "vision": "in 3 years i would be definition of success"
+          },
+          "interpreted_role": "Senior Data Engineer",
+          "clarity_score": 0.9
+        }
+      },
+      {
+        "agent": "Goal Readiness & Confidence Assessment Agent",
+        "event_type": "readiness_scored",
+        "timestamp": "2026-01-24T01:55:39.695237",
+        "details": {
+          "confidence_score": 0.4,
+          "readiness": "not_ready",
+          "answers_evaluated": false,
+          "questions_generated": true
+        }
+      },
+      {
+        "agent": "Market Intelligence Agent",
+        "event_type": "market_analyzed",
+        "timestamp": "2026-01-24T01:55:45.804838",
+        "details": {
+          "role": "Senior Data Engineer",
+          "demand_score": 85,
+          "trend": "growing"
+        }
+      },
+      {
+        "agent": "Career Path Planning Agent",
+        "event_type": "path_generated",
+        "timestamp": "2026-01-24T01:55:52.966562",
+        "details": {
+          "path_id": "1d798056-ba79-457d-ae7f-2920056dba0b",
+          "target_role": "Senior Data Engineer",
+          "success_probability": 0.55,
+          "steps_count": 4
+        }
+      },
+      {
+        "agent": "Action & Recommendation Agent",
+        "event_type": "actions_generated",
+        "timestamp": "2026-01-24T01:56:00.038545",
+        "details": {
+          "actions_count": 3,
+          "high_priority_count": 1
+        }
+      },
+      {
+        "agent": "Feedback & Learning Agent",
+        "event_type": "feedback_generated",
+        "timestamp": "2026-01-24T03:36:11.089098",
+        "details": {
+          "progress_rating": "fair",
+          "velocity": "behind_schedule",
+          "confidence_change": -0.05
+        }
+      },
+      {
+        "agent": "Re-Routing & Failure Detection Agent",
+        "event_type": "reroute_performed",
+        "timestamp": "2026-01-24T03:43:20.864510",
+        "details": {
+          "failure_type": "skill_gap",
+          "alternatives_count": 2,
+          "reroute_number": 1
+        }
+      },
+      {
+        "agent": "Re-Routing & Failure Detection Agent",
+        "event_type": "reroute_performed",
+        "timestamp": "2026-01-24T03:43:27.523005",
+        "details": {
+          "failure_type": "skill_gap",
+          "alternatives_count": 2,
+          "reroute_number": 2
+        }
+      },
+      {
+        "agent": "Re-Routing & Failure Detection Agent",
+        "event_type": "reroute_performed",
+        "timestamp": "2026-01-24T03:43:39.080465",
+        "details": {
+          "failure_type": "skill_gap",
+          "alternatives_count": 2,
+          "reroute_number": 3
+        }
+      },
+      {
+        "agent": "Re-Routing & Failure Detection Agent",
+        "event_type": "reroute_performed",
+        "timestamp": "2026-01-24T03:43:41.153646",
+        "details": {
+          "failure_type": "skill_gap",
+          "alternatives_count": 2,
+          "reroute_number": 3
+        }
+      },
+      {
+        "agent": "Career Path Planning Agent",
+        "event_type": "path_generated",
+        "timestamp": "2026-01-24T03:52:39.082701",
+        "details": {
+          "path_id": "8844aef7-5b7e-4734-b847-7e1d3d07766d",
+          "target_role": "Senior Data Engineer",
+          "success_probability": 0.45,
+          "steps_count": 4
+        }
+      },
+      {
+        "agent": "Action & Recommendation Agent",
+        "event_type": "actions_generated",
+        "timestamp": "2026-01-24T03:52:40.868164",
+        "details": {
+          "actions_count": 3,
+          "high_priority_count": 1
+        }
+      },
+      {
+        "agent": "Feedback & Learning Agent",
+        "event_type": "feedback_generated",
+        "timestamp": "2026-01-24T03:52:43.020391",
+        "details": {
+          "progress_rating": "fair",
+          "velocity": "behind_schedule",
+          "confidence_change": -0.1
+        }
+      },
+      {
+        "agent": "Career Path Planning Agent",
+        "event_type": "path_generated",
+        "timestamp": "2026-01-24T03:56:21.435695",
+        "details": {
+          "path_id": "6d5d54e1-0cde-4681-9cf3-214621d9763a",
+          "target_role": "Senior Data Engineer",
+          "success_probability": 0.4,
+          "steps_count": 4
+        }
+      },
+      {
+        "agent": "Action & Recommendation Agent",
+        "event_type": "actions_generated",
+        "timestamp": "2026-01-24T03:56:23.384355",
+        "details": {
+          "actions_count": 3,
+          "high_priority_count": 1
+        }
+      },
+      {
+        "agent": "Feedback & Learning Agent",
+        "event_type": "feedback_generated",
+        "timestamp": "2026-01-24T03:56:25.215777",
+        "details": {
+          "progress_rating": "fair",
+          "velocity": "behind_schedule",
+          "confidence_change": -0.05
+        }
+      },
+      {
+        "agent": "Feedback & Learning Agent",
+        "event_type": "feedback_generated",
+        "timestamp": "2026-01-24T03:57:27.593458",
+        "details": {
+          "progress_rating": "fair",
+          "velocity": "behind_schedule",
+          "confidence_change": -0.05
+        }
+      },
+      {
+        "agent": "Feedback & Learning Agent",
+        "event_type": "feedback_generated",
+        "timestamp": "2026-01-24T04:10:28.903920",
+        "details": {
+          "progress_rating": "fair",
+          "velocity": "behind_schedule",
+          "confidence_change": -0.05
+        }
+      },
+      {
+        "agent": "Feedback & Learning Agent",
+        "event_type": "feedback_generated",
+        "timestamp": "2026-01-24T05:27:37.872704",
+        "details": {
+          "progress_rating": "fair",
+          "velocity": "behind_schedule",
+          "confidence_change": -0.05
+        }
+      },
+      {
+        "agent": "Career Path Planning Agent",
+        "event_type": "path_generated",
+        "timestamp": "2026-01-24T05:28:52.749339",
+        "details": {
+          "path_id": "8cc193d2-4bb0-4ee8-a812-168404f2c333",
+          "target_role": "Senior Data Engineer",
+          "success_probability": 0.4,
+          "steps_count": 4
+        }
+      },
+      {
+        "agent": "Action & Recommendation Agent",
+        "event_type": "actions_generated",
+        "timestamp": "2026-01-24T05:28:54.847707",
+        "details": {
+          "actions_count": 3,
+          "high_priority_count": 1
+        }
+      },
+      {
+        "agent": "Feedback & Learning Agent",
+        "event_type": "feedback_generated",
+        "timestamp": "2026-01-24T05:28:56.624547",
+        "details": {
+          "progress_rating": "fair",
+          "velocity": "behind_schedule",
+          "confidence_change": -0.05
+        }
+      },
+      {
+        "agent": "Action & Recommendation Agent",
+        "event_type": "actions_generated",
+        "timestamp": "2026-01-24T05:40:54.587437",
+        "details": {
+          "actions_count": 3,
+          "high_priority_count": 1
+        }
+      },
+      {
+        "agent": "Feedback & Learning Agent",
+        "event_type": "feedback_generated",
+        "timestamp": "2026-01-24T05:40:56.365380",
+        "details": {
+          "progress_rating": "fair",
+          "velocity": "behind_schedule",
+          "confidence_change": -0.05
+        }
+      },
+      {
+        "agent": "Feedback & Learning Agent",
+        "event_type": "feedback_generated",
+        "timestamp": "2026-01-24T06:10:04.658720",
+        "details": {
+          "progress_rating": "fair",
+          "velocity": "behind_schedule",
+          "confidence_change": -0.05
+        }
+      }
+    ]
+  },
+  "action_validations": {
+    "Complete Codecademy Python Course modules 1-3": {
+      "questions": [
+        {
+          "question": "What is the main objective of 'Complete Codecademy Python Course modules 1-3'?",
+          "expected_understanding": "Student understands the goal"
+        },
+        {
+          "question": "How does 'Complete Codecademy Python Course modules 1-3' relate to your career goal?",
+          "expected_understanding": "Student can connect to their path"
+        },
+        {
+          "question": "What did you learn from completing 'Complete Codecademy Python Course modules 1-3'?",
+          "expected_understanding": "Student reflects on learning"
+        }
+      ],
+      "generated_at": "2026-01-24T03:33:48.525604",
+      "status": "pending"
+    }
+  }
+}

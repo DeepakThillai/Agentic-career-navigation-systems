@@ -1,0 +1,4 @@
+# Career Navigation System - Backend Requirements
+groq>=0.4.1
+python-dotenv>=1.0.0
+pydantic>=2.0.0

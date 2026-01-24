@@ -1,0 +1,161 @@
+{
+  "user_id": "test_user_001",
+  "created_at": "2026-01-24T01:50:55.317880",
+  "last_updated": "2026-01-24T01:50:55.318866",
+  "student_profile": {
+    "personal_info": {
+      "education": null,
+      "current_year": null,
+      "institution": null
+    },
+    "experience_level": null,
+    "technical_skills": {},
+    "soft_skills": [],
+    "strength_areas": [],
+    "weakness_areas": [],
+    "learning_capacity": null,
+    "risk_factors": [],
+    "projects": [],
+    "experience": null
+  },
+  "career_goals": {
+    "current_goal": null,
+    "interpreted_goal": null,
+    "goal_history": [],
+    "goal_clarity_score": 0.0,
+    "commitment_level": null
+  },
+  "readiness": {
+    "confidence_score": 0.0,
+    "deviation_risk": null,
+    "weak_areas": [],
+    "diagnostic_questions": [],
+    "diagnostic_answers": [],
+    "readiness_verdict": null,
+    "last_assessed": null
+  },
+  "market_context": {
+    "target_role_analysis": null,
+    "last_market_check": null,
+    "market_trends": []
+  },
+  "active_path": {
+    "path_id": null,
+    "target_role": null,
+    "primary_path": null,
+    "fallback_paths": [],
+    "success_probability": 0.0,
+    "created_at": null,
+    "status": "not_started",
+    "original_target_role": null,
+    "path_change_history": [],
+    "current_path_type": "original"
+  },
+  "roadmap": {
+    "roadmap_id": "roadmap_test_user_001_001",
+    "total_steps": 3,
+    "steps": [
+      {
+        "step_number": 1,
+        "title": "Foundation Building",
+        "description": "Build core fundamentals in Python",
+        "skills_to_learn": [
+          "Python basics",
+          "OOP"
+        ],
+        "resources": [
+          "Python docs",
+          "Online course"
+        ],
+        "duration_weeks": 4,
+        "difficulty": "easy",
+        "success_criteria": "Complete 10 exercises with 80%+ accuracy",
+        "status": "pending",
+        "actions": []
+      },
+      {
+        "step_number": 2,
+        "title": "Advanced Topics",
+        "description": "Master advanced Python concepts",
+        "skills_to_learn": [
+          "Async programming",
+          "Design patterns"
+        ],
+        "resources": [
+          "Advanced book",
+          "Code examples"
+        ],
+        "duration_weeks": 6,
+        "difficulty": "medium",
+        "success_criteria": "Build 2 advanced projects",
+        "status": "pending",
+        "actions": []
+      },
+      {
+        "step_number": 3,
+        "title": "Real-World Application",
+        "description": "Apply skills in production environment",
+        "skills_to_learn": [
+          "Deployment",
+          "Testing",
+          "DevOps"
+        ],
+        "resources": [
+          "Docker docs",
+          "Kubernetes guide"
+        ],
+        "duration_weeks": 4,
+        "difficulty": "hard",
+        "success_criteria": "Deploy working application",
+        "status": "pending",
+        "actions": []
+      }
+    ],
+    "current_step_number": 1,
+    "completed_steps": [],
+    "created_at": "2026-01-24T01:50:55.318866",
+    "status": "generated"
+  },
+  "reroute_state": {
+    "is_rerouting": false,
+    "original_roadmap_id": null,
+    "alternative_roadmaps": [],
+    "selected_alternative_id": null,
+    "alternative_completion_percentage": 0.0,
+    "redirect_to_step": null,
+    "reroute_timestamp": null,
+    "reroute_reason": null
+  },
+  "progress": {
+    "completed_steps": [],
+    "current_step": null,
+    "blockers": [],
+    "time_spent_hours": 0.0,
+    "completion_rate": 0.0,
+    "last_activity": null,
+    "active_stage": 1,
+    "stage_completion_rate": 0.0,
+    "stage_progression_history": [],
+    "next_stage_generated_at": null,
+    "next_action_allocated": null,
+    "last_allocation_time": null
+  },
+  "reroute_history": {
+    "failed_paths": [],
+    "reroute_reasons": [],
+    "alternative_suggestions": [],
+    "reroute_count": 0,
+    "selected_alternative": null,
+    "applied_changes": []
+  },
+  "current_actions": {
+    "pending_actions": [],
+    "completed_actions": [],
+    "priority_actions": []
+  },
+  "metadata": {
+    "total_sessions": 0,
+    "agent_interaction_count": {},
+    "system_events": []
+  }
+}

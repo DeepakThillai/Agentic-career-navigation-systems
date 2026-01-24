@@ -1,0 +1,649 @@
+{
+  "user_id": "Amrith",
+  "created_at": "2026-01-24T07:24:57.291260",
+  "last_updated": "2026-01-24T08:06:00.508185",
+  "student_profile": {
+    "personal_info": {
+      "education": null,
+      "current_year": null,
+      "institution": null
+    },
+    "experience_level": "beginner",
+    "technical_skills": {
+      "programming": [],
+      "web_development": [],
+      "data_science": [],
+      "tools": []
+    },
+    "soft_skills": [],
+    "strength_areas": [],
+    "weakness_areas": [],
+    "learning_capacity": "slow",
+    "risk_factors": [],
+    "projects": [],
+    "experience": null,
+    "profile_confidence": 0.0
+  },
+  "career_goals": {
+    "current_goal": {
+      "experience_level": "Fresh Graduate",
+      "learning_capacity": "High",
+      "education": "Bachelors in Aids",
+      "specialization": "Machine learning",
+      "years_experience": 0,
+      "location": "United states",
+      "programming_langs": [
+        "Python",
+        "C++"
+      ],
+      "frameworks": [
+        "Django",
+        "FastAPI"
+      ],
+      "strength_areas": [
+        "Problem Solving",
+        "System Design",
+        "Code Quality"
+      ],
+      "risk_factors": [
+        "Limited networking",
+        "Imposter syndrome"
+      ],
+      "target_role": "Senior data engineer",
+      "motivation": 7,
+      "projects": [
+        "Built ML classifier",
+        "built DL based neural network"
+      ],
+      "timeline_months": 12,
+      "weekly_commitment": "10-15 hours/week",
+      "availability": "Full-time",
+      "learning_style": [
+        "Hands-on projects",
+        "Online courses",
+        "Mentoring",
+        "Books",
+        "Videos",
+        "Workshops"
+      ],
+      "vision": "I want to be the best"
+    },
+    "interpreted_goal": {
+      "role_title": "Senior Data Engineer",
+      "role_category": "Data Science",
+      "role_description": "Design, build, and maintain large-scale data systems, ensuring high performance, scalability, and reliability",
+      "required_skills": [
+        "Machine Learning",
+        "Data Engineering",
+        "Python",
+        "C++",
+        "Django",
+        "FastAPI"
+      ],
+      "typical_requirements": [
+        "Bachelor's degree in Computer Science or related field",
+        "5+ years of experience in data engineering",
+        "Strong understanding of data structures, algorithms, and software design patterns"
+      ],
+      "typical_responsibilities": [
+        "Design and implement data pipelines",
+        "Develop and maintain large-scale data systems",
+        "Collaborate with cross-functional teams to identify and prioritize project requirements"
+      ],
+      "goal_clarity_score": 0.9,
+      "commitment_level": "high",
+      "time_to_competency_months": 12,
+      "interpretation_notes": "The target role is explicitly stated as 'Senior Data Engineer', and the provided information aligns with the typical requirements and responsibilities of this role."
+    },
+    "goal_history": [],
+    "goal_clarity_score": 0.9,
+    "commitment_level": "high"
+  },
+  "readiness": {
+    "confidence_score": 0.4,
+    "deviation_risk": "high",
+    "weak_areas": [
+      "lack of technical skills",
+      "no practical experience"
+    ],
+    "diagnostic_questions": [
+      {
+        "question_number": 1,
+        "question": "What are the key differences between a data engineer and a data scientist?",
+        "purpose": "Conceptual understanding of role responsibilities",
+        "category": "conceptual"
+      },
+      {
+        "question_number": 2,
+        "question": "How do you optimize the performance of a slow-running SQL query?",
+        "purpose": "Technical knowledge of database optimization",
+        "category": "technical"
+      },
+      {
+        "question_number": 3,
+        "question": "Can you describe a situation where you had to design and implement a data pipeline?",
+        "purpose": "Practical awareness of data engineering tasks",
+        "category": "practical"
+      },
+      {
+        "question_number": 4,
+        "question": "What are some common data engineering tools and technologies, and how do you choose the right ones for a project?",
+        "purpose": "Technical knowledge of data engineering tools",
+        "category": "technical"
+      },
+      {
+        "question_number": 5,
+        "question": "How do you handle data quality issues in a large-scale data processing system?",
+        "purpose": "Conceptual understanding of data quality management",
+        "category": "conceptual"
+      }
+    ],
+    "diagnostic_answers": [
+      "Data engineer builds data based software out of it, while data scientist researches on it",
+      "provide optimal queries",
+      "when i am currently developing ML model , i have to develop a pipeline",
+      "Numpy, pandas, matplot,scikit learn, pytorch, tensorflow,etc each has its own requirement and based on it we choose for project",
+      "by increasing scalability"
+    ],
+    "readiness_verdict": "not_ready",
+    "last_assessed": "2026-01-24T07:25:09.710184"
+  },
+  "market_context": {
+    "target_role_analysis": {
+      "role_title": "Senior Data Engineer",
+      "demand_score": 85,
+      "competition_level": "medium",
+      "entry_barrier": "high",
+      "market_trend": "growing",
+      "avg_salary_range_usd": "120k-180k",
+      "required_experience_years": "5-10",
+      "key_hiring_companies": [
+        "Google",
+        "Amazon",
+        "Microsoft"
+      ],
+      "in_demand_skills": [
+        "Machine Learning",
+        "Data Engineering",
+        "Cloud Computing",
+        "Python",
+        "Java"
+      ],
+      "market_saturation": "medium",
+      "job_availability": "moderate",
+      "adjacent_safer_roles": [
+        {
+          "role": "Data Engineer",
+          "reason": "Less experience required and more general skills",
+          "demand_score": 80,
+          "entry_barrier": "medium"
+        },
+        {
+          "role": "Business Intelligence Developer",
+          "reason": "Similar skills but less emphasis on machine learning",
+          "demand_score": 75,
+          "entry_barrier": "low"
+        },
+        {
+          "role": "Data Analyst",
+          "reason": "Less technical expertise required, more focus on data interpretation",
+          "demand_score": 70,
+          "entry_barrier": "low"
+        }
+      ],
+      "market_notes": "The demand for Senior Data Engineers is high due to the increasing need for large-scale data systems. However, the entry barrier is high due to the required experience and specialized skills.",
+      "last_updated": "2026-01-23"
+    },
+    "last_market_check": "2026-01-24T07:25:15.714700",
+    "market_trends": [
+      {
+        "role": "Senior Data Engineer",
+        "demand_score": 85,
+        "trend": "growing",
+        "timestamp": "2026-01-23"
+      }
+    ]
+  },
+  "active_path": {
+    "path_id": "9a4e0224-cb8c-496b-a0ba-6b1b5d6c394b",
+    "target_role": "Senior Data Engineer",
+    "primary_path": {
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Learn Python Basics",
+          "description": "Complete online courses to learn Python fundamentals",
+          "skills_to_learn": [
+            "Python"
+          ],
+          "resources": [
+            "Codecademy Python Course",
+            "Python Crash Course Book"
+          ],
+          "duration_weeks": 4,
+          "success_criteria": "Complete projects using Python",
+          "difficulty": "easy"
+        },
+        {
+          "step_number": 2,
+          "title": "Learn Data Structures and Algorithms",
+          "description": "Study data structures and algorithms to improve problem-solving skills",
+          "skills_to_learn": [
+            "Data Structures",
+            "Algorithms"
+          ],
+          "resources": [
+            "LeetCode",
+            "GeeksforGeeks"
+          ],
+          "duration_weeks": 6,
+          "success_criteria": "Solve problems on LeetCode",
+          "difficulty": "medium"
+        },
+        {
+          "step_number": 3,
+          "title": "Learn Data Engineering Fundamentals",
+          "description": "Study data engineering concepts and tools",
+          "skills_to_learn": [
+            "Data Engineering",
+            "Django",
+            "FastAPI"
+          ],
+          "resources": [
+            "Data Engineering Courses on Udemy",
+            "Data Engineering Books on Amazon"
+          ],
+          "duration_weeks": 6,
+          "success_criteria": "Complete projects using Django and FastAPI",
+          "difficulty": "hard"
+        },
+        {
+          "step_number": 4,
+          "title": "Gain Practical Experience",
+          "description": "Work on projects and contribute to open-source projects",
+          "skills_to_learn": [
+            "Machine Learning",
+            "Cloud Computing"
+          ],
+          "resources": [
+            "Kaggle",
+            "GitHub"
+          ],
+          "duration_weeks": 8,
+          "success_criteria": "Complete projects and receive feedback",
+          "difficulty": "hard"
+        }
+      ],
+      "total_weeks": 24,
+      "key_milestones": [
+        "Completing Python basics",
+        "Solving problems on LeetCode",
+        "Completing data engineering projects"
+      ]
+    },
+    "fallback_paths": [
+      {
+        "alternative_role": "Data Engineer",
+        "reason": "Less experience required and more general skills",
+        "easier_than_primary": true,
+        "steps_summary": [
+          "Learn Python Basics",
+          "Learn Data Structures and Algorithms",
+          "Gain Practical Experience"
+        ]
+      },
+      {
+        "alternative_role": "Business Intelligence Developer",
+        "reason": "Similar skills but less emphasis on machine learning",
+        "easier_than_primary": true,
+        "steps_summary": [
+          "Learn Python Basics",
+          "Learn Data Visualization",
+          "Gain Practical Experience"
+        ]
+      },
+      {
+        "alternative_role": "Data Analyst",
+        "reason": "Less technical expertise required, more focus on data interpretation",
+        "easier_than_primary": true,
+        "steps_summary": [
+          "Learn Python Basics",
+          "Learn Data Analysis",
+          "Gain Practical Experience"
+        ]
+      }
+    ],
+    "success_probability": 0.4,
+    "created_at": "2026-01-24T07:25:22.477871",
+    "status": "not_started",
+    "original_target_role": null,
+    "path_change_history": [],
+    "current_path_type": "original"
+  },
+  "roadmap": {
+    "roadmap_id": "9a4e0224-cb8c-496b-a0ba-6b1b5d6c394b",
+    "total_steps": 4,
+    "steps": [
+      {
+        "step_number": 1,
+        "title": "Learn Python Basics",
+        "description": "Complete online courses to learn Python fundamentals",
+        "skills_to_learn": [
+          "Python"
+        ],
+        "resources": [
+          "Codecademy Python Course",
+          "Python Crash Course Book"
+        ],
+        "duration_weeks": 4,
+        "success_criteria": "Complete projects using Python",
+        "difficulty": "easy"
+      },
+      {
+        "step_number": 2,
+        "title": "Learn Data Structures and Algorithms",
+        "description": "Study data structures and algorithms to improve problem-solving skills",
+        "skills_to_learn": [
+          "Data Structures",
+          "Algorithms"
+        ],
+        "resources": [
+          "LeetCode",
+          "GeeksforGeeks"
+        ],
+        "duration_weeks": 6,
+        "success_criteria": "Solve problems on LeetCode",
+        "difficulty": "medium"
+      },
+      {
+        "step_number": 3,
+        "title": "Learn Data Engineering Fundamentals",
+        "description": "Study data engineering concepts and tools",
+        "skills_to_learn": [
+          "Data Engineering",
+          "Django",
+          "FastAPI"
+        ],
+        "resources": [
+          "Data Engineering Courses on Udemy",
+          "Data Engineering Books on Amazon"
+        ],
+        "duration_weeks": 6,
+        "success_criteria": "Complete projects using Django and FastAPI",
+        "difficulty": "hard"
+      },
+      {
+        "step_number": 4,
+        "title": "Gain Practical Experience",
+        "description": "Work on projects and contribute to open-source projects",
+        "skills_to_learn": [
+          "Machine Learning",
+          "Cloud Computing"
+        ],
+        "resources": [
+          "Kaggle",
+          "GitHub"
+        ],
+        "duration_weeks": 8,
+        "success_criteria": "Complete projects and receive feedback",
+        "difficulty": "hard"
+      }
+    ],
+    "current_step_number": 1,
+    "completed_steps": [],
+    "created_at": "2026-01-24T07:25:22.500871",
+    "status": "generated"
+  },
+  "reroute_state": {
+    "is_rerouting": false,
+    "original_roadmap_id": null,
+    "alternative_roadmaps": [],
+    "selected_alternative_id": null,
+    "alternative_completion_percentage": 0.0,
+    "redirect_to_step": null,
+    "reroute_timestamp": null,
+    "reroute_reason": null
+  },
+  "progress": {
+    "completed_steps": [],
+    "current_step": null,
+    "blockers": [],
+    "time_spent_hours": 0.0,
+    "completion_rate": 0.0,
+    "last_activity": null,
+    "active_stage": 1,
+    "stage_completion_rate": 0.6666666666666666,
+    "stage_progression_history": [],
+    "next_stage_generated_at": null,
+    "next_action_allocated": "Complete Codecademy Python Course Modules 1-3",
+    "last_allocation_time": "2026-01-24T08:06:00.506166"
+  },
+  "reroute_history": {
+    "failed_paths": [],
+    "reroute_reasons": [],
+    "alternative_suggestions": [],
+    "reroute_count": 0,
+    "selected_alternative": null,
+    "applied_changes": []
+  },
+  "current_actions": {
+    "pending_actions": [
+      {
+        "action_id": "action_1",
+        "title": "Complete Codecademy Python Course Modules 1-3",
+        "description": "Finish modules 1-3 of the Codecademy Python course",
+        "type": "learning",
+        "estimated_hours": 8,
+        "estimated_days": 4,
+        "priority": "high",
+        "impact_score": 9,
+        "effort_score": 6,
+        "prerequisites": [],
+        "success_criteria": "Complete modules 1-3 with a score of 80% or higher",
+        "resources": [
+          {
+            "title": "Codecademy Python Course",
+            "url": "https://www.codecademy.com/learn/learn-python",
+            "type": "course"
+          }
+        ],
+        "tips": [
+          "Practice coding every day",
+          "Join online communities for support"
+        ],
+        "stage": 1,
+        "status": "in_progress",
+        "attempts": 1,
+        "questions": [
+          "What is the basic syntax for printing output in Python?",
+          "How do you assign a value to a variable in Python?",
+          "What is the purpose of the 'type()' function in Python?",
+          "Write a Python code snippet to ask for user input and store it in a variable.",
+          "What is the difference between the '=' and '==' operators in Python?"
+        ]
+      }
+    ],
+    "completed_actions": [
+      {
+        "action_id": "action_3",
+        "title": "Complete LeetCode Easy Problems",
+        "description": "Solve easy problems on LeetCode to practice problem-solving",
+        "type": "practice",
+        "estimated_hours": 12,
+        "estimated_days": 6,
+        "priority": "medium",
+        "impact_score": 8,
+        "effort_score": 8,
+        "prerequisites": [
+          "action_1"
+        ],
+        "success_criteria": "Solve 10 easy problems with a score of 80% or higher",
+        "resources": [
+          {
+            "title": "LeetCode",
+            "url": "https://leetcode.com/",
+            "type": "platform"
+          }
+        ],
+        "tips": [
+          "Start with easy problems and gradually move to harder ones",
+          "Discuss solutions with others"
+        ],
+        "stage": 1,
+        "status": "completed",
+        "completion_timestamp": "2026-01-24T08:05:43.091282",
+        "relevance_score": 1.0,
+        "agent_satisfied": true,
+        "user_answers": []
+      },
+      {
+        "action_id": "action_2",
+        "title": "Read Python Crash Course Book Chapters 1-3",
+        "description": "Read chapters 1-3 of the Python Crash Course book",
+        "type": "learning",
+        "estimated_hours": 10,
+        "estimated_days": 5,
+        "priority": "medium",
+        "impact_score": 8,
+        "effort_score": 7,
+        "prerequisites": [],
+        "success_criteria": "Complete reading chapters 1-3 with notes and summaries",
+        "resources": [
+          {
+            "title": "Python Crash Course Book",
+            "url": "https://www.amazon.com/Python-Crash-Course-2nd-Edition",
+            "type": "book"
+          }
+        ],
+        "tips": [
+          "Take notes and summarize key concepts",
+          "Discuss with others what you've read"
+        ],
+        "stage": 1,
+        "status": "completed",
+        "completion_timestamp": "2026-01-24T08:06:00.497171",
+        "relevance_score": 1.0,
+        "agent_satisfied": true,
+        "user_answers": []
+      }
+    ],
+    "priority_actions": [
+      "action_1"
+    ]
+  },
+  "metadata": {
+    "total_sessions": 0,
+    "agent_interaction_count": {
+      "Student Profiling Agent": 1,
+      "Goal Interpretation Agent": 1,
+      "Goal Readiness & Confidence Assessment Agent": 1,
+      "Market Intelligence Agent": 1,
+      "Career Path Planning Agent": 1,
+      "Action & Recommendation Agent": 1
+    },
+    "system_events": [
+      {
+        "agent": "Student Profiling Agent",
+        "event_type": "profile_analyzed",
+        "timestamp": "2026-01-24T07:24:57.707842",
+        "details": {
+          "experience_level": "beginner",
+          "skills_count": 4
+        }
+      },
+      {
+        "agent": "Goal Interpretation Agent",
+        "event_type": "goal_interpreted",
+        "timestamp": "2026-01-24T07:25:03.530577",
+        "details": {
+          "original_goal": {
+            "experience_level": "Fresh Graduate",
+            "learning_capacity": "High",
+            "education": "Bachelors in Aids",
+            "specialization": "Machine learning",
+            "years_experience": 0,
+            "location": "United states",
+            "programming_langs": [
+              "Python",
+              "C++"
+            ],
+            "frameworks": [
+              "Django",
+              "FastAPI"
+            ],
+            "strength_areas": [
+              "Problem Solving",
+              "System Design",
+              "Code Quality"
+            ],
+            "risk_factors": [
+              "Limited networking",
+              "Imposter syndrome"
+            ],
+            "target_role": "Senior data engineer",
+            "motivation": 7,
+            "projects": [
+              "Built ML classifier",
+              "built DL based neural network"
+            ],
+            "timeline_months": 12,
+            "weekly_commitment": "10-15 hours/week",
+            "availability": "Full-time",
+            "learning_style": [
+              "Hands-on projects",
+              "Online courses",
+              "Mentoring",
+              "Books",
+              "Videos",
+              "Workshops"
+            ],
+            "vision": "I want to be the best"
+          },
+          "interpreted_role": "Senior Data Engineer",
+          "clarity_score": 0.9
+        }
+      },
+      {
+        "agent": "Goal Readiness & Confidence Assessment Agent",
+        "event_type": "readiness_scored",
+        "timestamp": "2026-01-24T07:25:09.716184",
+        "details": {
+          "confidence_score": 0.4,
+          "readiness": "not_ready",
+          "answers_evaluated": false,
+          "questions_generated": true
+        }
+      },
+      {
+        "agent": "Market Intelligence Agent",
+        "event_type": "market_analyzed",
+        "timestamp": "2026-01-24T07:25:15.719710",
+        "details": {
+          "role": "Senior Data Engineer",
+          "demand_score": 85,
+          "trend": "growing"
+        }
+      },
+      {
+        "agent": "Career Path Planning Agent",
+        "event_type": "path_generated",
+        "timestamp": "2026-01-24T07:25:22.490870",
+        "details": {
+          "path_id": "9a4e0224-cb8c-496b-a0ba-6b1b5d6c394b",
+          "target_role": "Senior Data Engineer",
+          "success_probability": 0.4,
+          "steps_count": 4
+        }
+      },
+      {
+        "agent": "Action & Recommendation Agent",
+        "event_type": "actions_generated",
+        "timestamp": "2026-01-24T07:25:29.361672",
+        "details": {
+          "actions_count": 3,
+          "high_priority_count": 1
+        }
+      }
+    ]
+  }
+}

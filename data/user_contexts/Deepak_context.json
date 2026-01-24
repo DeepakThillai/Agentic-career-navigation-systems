@@ -1,0 +1,772 @@
+{
+  "user_id": "Deepak",
+  "created_at": "2026-01-24T01:43:17.976037",
+  "last_updated": "2026-01-24T01:44:46.196298",
+  "student_profile": {
+    "personal_info": {
+      "education": null,
+      "current_year": null,
+      "institution": null
+    },
+    "experience_level": "beginner",
+    "technical_skills": {
+      "programming": [],
+      "web_development": [],
+      "data_science": [],
+      "tools": []
+    },
+    "soft_skills": [],
+    "strength_areas": [],
+    "weakness_areas": [],
+    "learning_capacity": "slow",
+    "risk_factors": [],
+    "projects": [],
+    "experience": null,
+    "profile_confidence": 0.0
+  },
+  "career_goals": {
+    "current_goal": {
+      "experience_level": "Fresh Graduate",
+      "learning_capacity": "High",
+      "education": "Bachelors in Artificial Intelligence And Data science",
+      "specialization": "ML engineer",
+      "years_experience": 0,
+      "location": "India",
+      "programming_langs": [
+        "Python"
+      ],
+      "frameworks": [
+        "Django"
+      ],
+      "strength_areas": [
+        "Problem Solving"
+      ],
+      "risk_factors": [
+        "Limited networking"
+      ],
+      "target_role": "Senior Data Engineer",
+      "motivation": 7,
+      "projects": [
+        "Built ML classifier",
+        "built DL classifier"
+      ],
+      "timeline_months": 12,
+      "weekly_commitment": "10-15 hours/week",
+      "availability": "Full-time",
+      "learning_style": [
+        "Hands-on projects",
+        "Online courses"
+      ],
+      "vision": "I want to be great, best , iconic ml engineer to ever exist"
+    },
+    "interpreted_goal": {
+      "role_title": "Senior Data Engineer",
+      "role_category": "Data Science",
+      "role_description": "Design, build, and maintain large-scale data systems, with a focus on machine learning engineering",
+      "required_skills": [
+        "Python",
+        "Django",
+        "Machine Learning",
+        "Data Engineering"
+      ],
+      "typical_requirements": [
+        "Bachelor's degree in Computer Science or related field",
+        "Experience with data engineering tools and technologies"
+      ],
+      "typical_responsibilities": [
+        "Designing and implementing data pipelines",
+        "Developing and deploying machine learning models",
+        "Collaborating with cross-functional teams"
+      ],
+      "goal_clarity_score": 0.9,
+      "commitment_level": "high",
+      "time_to_competency_months": 12,
+      "interpretation_notes": "The goal is clear and specific, with a well-defined target role and relevant skills and experience. The student's motivation and learning capacity also support this interpretation."
+    },
+    "goal_history": [],
+    "goal_clarity_score": 0.9,
+    "commitment_level": "high"
+  },
+  "readiness": {
+    "confidence_score": 0.2,
+    "deviation_risk": "high",
+    "weak_areas": [
+      "programming skills",
+      "data management experience",
+      "familiarity with data engineering tools"
+    ],
+    "diagnostic_questions": [],
+    "diagnostic_answers": [],
+    "readiness_verdict": "not_ready",
+    "last_assessed": "2026-01-24T01:43:31.159654"
+  },
+  "market_context": {
+    "target_role_analysis": {
+      "role_title": "Senior Data Engineer",
+      "demand_score": 85,
+      "competition_level": "medium",
+      "entry_barrier": "high",
+      "market_trend": "growing",
+      "avg_salary_range_usd": "110k-140k",
+      "required_experience_years": "5-7",
+      "key_hiring_companies": [
+        "Google",
+        "Amazon",
+        "Microsoft"
+      ],
+      "in_demand_skills": [
+        "Python",
+        "Machine Learning",
+        "Cloud Computing"
+      ],
+      "market_saturation": "low",
+      "job_availability": "abundant",
+      "adjacent_safer_roles": [
+        {
+          "role": "Data Analyst",
+          "reason": "Less specialized and requires fewer years of experience",
+          "demand_score": 80,
+          "entry_barrier": "low"
+        },
+        {
+          "role": "Junior Data Engineer",
+          "reason": "Entry-level position with a clearer path to advancement",
+          "demand_score": 75,
+          "entry_barrier": "medium"
+        },
+        {
+          "role": "Business Intelligence Developer",
+          "reason": "Similar skills but with a focus on business applications",
+          "demand_score": 70,
+          "entry_barrier": "low"
+        }
+      ],
+      "market_notes": "The demand for Senior Data Engineers is high, driven by the growing need for machine learning and data engineering expertise. However, the role requires significant experience and specialized skills, making it challenging for entry-level candidates to break in.",
+      "last_updated": "2026-01-23"
+    },
+    "last_market_check": "2026-01-24T01:43:37.535786",
+    "market_trends": [
+      {
+        "role": "Senior Data Engineer",
+        "demand_score": 85,
+        "trend": "growing",
+        "timestamp": "2026-01-23"
+      }
+    ]
+  },
+  "active_path": {
+    "path_id": "e22f593a-e157-4074-a1a5-5cd104f255c9",
+    "target_role": "Senior Data Engineer",
+    "primary_path": {
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Learn Python Basics",
+          "description": "Complete online courses to learn Python fundamentals",
+          "skills_to_learn": [
+            "Python"
+          ],
+          "resources": [
+            "Codecademy Python Course",
+            "Python Crash Course Book"
+          ],
+          "duration_weeks": 4,
+          "success_criteria": "Complete projects using Python",
+          "difficulty": "easy"
+        },
+        {
+          "step_number": 2,
+          "title": "Introduction to Data Science",
+          "description": "Take online courses to learn data science concepts",
+          "skills_to_learn": [
+            "Data Science",
+            "Machine Learning"
+          ],
+          "resources": [
+            "Data Science Specialization on Coursera",
+            "Python Data Science Handbook"
+          ],
+          "duration_weeks": 6,
+          "success_criteria": "Complete data science projects",
+          "difficulty": "medium"
+        },
+        {
+          "step_number": 3,
+          "title": "Data Engineering Fundamentals",
+          "description": "Learn data engineering tools and technologies",
+          "skills_to_learn": [
+            "Data Engineering",
+            "Django"
+          ],
+          "resources": [
+            "Data Engineering Course on Udemy",
+            "Django Documentation"
+          ],
+          "duration_weeks": 6,
+          "success_criteria": "Complete data engineering projects",
+          "difficulty": "hard"
+        },
+        {
+          "step_number": 4,
+          "title": "Practice and Build Portfolio",
+          "description": "Work on projects to build a portfolio",
+          "skills_to_learn": [
+            "Project Management",
+            "Communication"
+          ],
+          "resources": [
+            "GitHub",
+            "Data Science Project Ideas"
+          ],
+          "duration_weeks": 8,
+          "success_criteria": "Complete 3-5 projects",
+          "difficulty": "medium"
+        },
+        {
+          "step_number": 5,
+          "title": "Prepare for Senior Data Engineer Role",
+          "description": "Learn advanced data engineering concepts",
+          "skills_to_learn": [
+            "Advanced Data Engineering",
+            "Leadership"
+          ],
+          "resources": [
+            "Advanced Data Engineering Course on edX",
+            "Leadership Books"
+          ],
+          "duration_weeks": 8,
+          "success_criteria": "Complete advanced projects",
+          "difficulty": "hard"
+        }
+      ],
+      "total_weeks": 32,
+      "key_milestones": [
+        "Completing Python basics",
+        "Completing data science courses",
+        "Building a portfolio"
+      ]
+    },
+    "fallback_paths": [
+      {
+        "alternative_role": "Data Analyst",
+        "reason": "Less specialized and requires fewer years of experience",
+        "easier_than_primary": true,
+        "steps_summary": [
+          "Learn Excel and SQL",
+          "Take data analysis courses",
+          "Practice with data analysis projects"
+        ]
+      },
+      {
+        "alternative_role": "Junior Data Engineer",
+        "reason": "Entry-level position with a clearer path to advancement",
+        "easier_than_primary": true,
+        "steps_summary": [
+          "Learn Python and data engineering basics",
+          "Practice with data engineering projects",
+          "Build a portfolio"
+        ]
+      },
+      {
+        "alternative_role": "Business Intelligence Developer",
+        "reason": "Similar skills but with a focus on business applications",
+        "easier_than_primary": true,
+        "steps_summary": [
+          "Learn business intelligence tools",
+          "Take business intelligence courses",
+          "Practice with business intelligence projects"
+        ]
+      }
+    ],
+    "success_probability": 0.4,
+    "created_at": "2026-01-24T01:43:44.700652",
+    "status": "not_started",
+    "original_target_role": null,
+    "path_change_history": [],
+    "current_path_type": "original"
+  },
+  "roadmap": {
+    "roadmap_id": "Deepak_roadmap_20260124_014443",
+    "total_steps": 5,
+    "steps": [
+      {
+        "step_number": 1,
+        "title": "Foundation Building",
+        "description": "Establish core fundamentals",
+        "actions": [
+          {
+            "action_id": "action_1_1",
+            "title": "Learn Python Basics",
+            "description": "Master Python fundamentals",
+            "success_criteria": "Complete 10 coding exercises with 80%+ accuracy",
+            "status": "in_progress",
+            "questions": [
+              "What is the basic syntax for printing output in Python?",
+              "How do you declare a variable in Python and what are the basic data types?",
+              "Write a simple Python function to calculate the area of a rectangle?",
+              "What is the difference between the '=' and '==' operators in Python?",
+              "How do you handle errors and exceptions in a Python program using try-except blocks?"
+            ],
+            "user_answers": [],
+            "relevance_score": 0.0,
+            "agent_satisfied": false,
+            "attempts": 1,
+            "completion_timestamp": null
+          },
+          {
+            "action_id": "action_1_2",
+            "title": "Understand Data Structures",
+            "description": "Learn arrays, lists, dictionaries",
+            "success_criteria": "Implement all basic data structures from scratch",
+            "status": "pending",
+            "questions": [],
+            "user_answers": [],
+            "relevance_score": 0.0,
+            "agent_satisfied": false,
+            "attempts": 0,
+            "completion_timestamp": null
+          },
+          {
+            "action_id": "action_1_3",
+            "title": "Problem Solving Practice",
+            "description": "Solve algorithmic challenges",
+            "success_criteria": "Solve 20+ problems on LeetCode/HackerRank",
+            "status": "pending",
+            "questions": [],
+            "user_answers": [],
+            "relevance_score": 0.0,
+            "agent_satisfied": false,
+            "attempts": 0,
+            "completion_timestamp": null
+          }
+        ],
+        "status": "in_progress",
+        "completion_percentage": 0.0
+      },
+      {
+        "step_number": 2,
+        "title": "Data Management Fundamentals",
+        "description": "Learn data management basics",
+        "actions": [
+          {
+            "action_id": "action_2_1",
+            "title": "Introduction to SQL",
+            "description": "Learn SQL basics",
+            "success_criteria": "Complete a SQL course with 90%+ completion rate",
+            "status": "pending",
+            "questions": [],
+            "user_answers": [],
+            "relevance_score": 0.0,
+            "agent_satisfied": false,
+            "attempts": 0,
+            "completion_timestamp": null
+          },
+          {
+            "action_id": "action_2_2",
+            "title": "Database Design",
+            "description": "Learn database design principles",
+            "success_criteria": "Design and implement a simple database schema",
+            "status": "pending",
+            "questions": [],
+            "user_answers": [],
+            "relevance_score": 0.0,
+            "agent_satisfied": false,
+            "attempts": 0,
+            "completion_timestamp": null
+          },
+          {
+            "action_id": "action_2_3",
+            "title": "Data Modeling",
+            "description": "Learn data modeling concepts",
+            "success_criteria": "Create a data model for a simple use case",
+            "status": "pending",
+            "questions": [],
+            "user_answers": [],
+            "relevance_score": 0.0,
+            "agent_satisfied": false,
+            "attempts": 0,
+            "completion_timestamp": null
+          }
+        ],
+        "status": "pending",
+        "completion_percentage": 0.0
+      },
+      {
+        "step_number": 3,
+        "title": "Data Engineering Tools",
+        "description": "Familiarize with data engineering tools",
+        "actions": [
+          {
+            "action_id": "action_3_1",
+            "title": "Introduction to Apache Spark",
+            "description": "Learn Apache Spark basics",
+            "success_criteria": "Complete a Spark tutorial with 85%+ completion rate",
+            "status": "pending",
+            "questions": [],
+            "user_answers": [],
+            "relevance_score": 0.0,
+            "agent_satisfied": false,
+            "attempts": 0,
+            "completion_timestamp": null
+          },
+          {
+            "action_id": "action_3_2",
+            "title": "Apache Hadoop Fundamentals",
+            "description": "Learn Hadoop basics",
+            "success_criteria": "Complete a Hadoop course with 85%+ completion rate",
+            "status": "pending",
+            "questions": [],
+            "user_answers": [],
+            "relevance_score": 0.0,
+            "agent_satisfied": false,
+            "attempts": 0,
+            "completion_timestamp": null
+          },
+          {
+            "action_id": "action_3_3",
+            "title": "Cloud Platforms",
+            "description": "Learn cloud platforms (AWS/Azure/GCP)",
+            "success_criteria": "Deploy a simple data pipeline on a cloud platform",
+            "status": "pending",
+            "questions": [],
+            "user_answers": [],
+            "relevance_score": 0.0,
+            "agent_satisfied": false,
+            "attempts": 0,
+            "completion_timestamp": null
+          }
+        ],
+        "status": "pending",
+        "completion_percentage": 0.0
+      },
+      {
+        "step_number": 4,
+        "title": "Data Engineering Practice",
+        "description": "Apply data engineering skills",
+        "actions": [
+          {
+            "action_id": "action_4_1",
+            "title": "Build a Data Pipeline",
+            "description": "Design and implement a data pipeline",
+            "success_criteria": "Deploy a data pipeline that processes 1000+ records",
+            "status": "pending",
+            "questions": [],
+            "user_answers": [],
+            "relevance_score": 0.0,
+            "agent_satisfied": false,
+            "attempts": 0,
+            "completion_timestamp": null
+          },
+          {
+            "action_id": "action_4_2",
+            "title": "Data Quality and Validation",
+            "description": "Learn data quality and validation techniques",
+            "success_criteria": "Implement data quality checks for a data pipeline",
+            "status": "pending",
+            "questions": [],
+            "user_answers": [],
+            "relevance_score": 0.0,
+            "agent_satisfied": false,
+            "attempts": 0,
+            "completion_timestamp": null
+          },
+          {
+            "action_id": "action_4_3",
+            "title": "Scalability and Performance",
+            "description": "Learn scalability and performance optimization techniques",
+            "success_criteria": "Optimize a data pipeline for performance and scalability",
+            "status": "pending",
+            "questions": [],
+            "user_answers": [],
+            "relevance_score": 0.0,
+            "agent_satisfied": false,
+            "attempts": 0,
+            "completion_timestamp": null
+          }
+        ],
+        "status": "pending",
+        "completion_percentage": 0.0
+      },
+      {
+        "step_number": 5,
+        "title": "Senior Data Engineer Preparation",
+        "description": "Prepare for senior data engineer role",
+        "actions": [
+          {
+            "action_id": "action_5_1",
+            "title": "Leadership and Communication",
+            "description": "Develop leadership and communication skills",
+            "success_criteria": "Lead a team project and receive positive feedback",
+            "status": "pending",
+            "questions": [],
+            "user_answers": [],
+            "relevance_score": 0.0,
+            "agent_satisfied": false,
+            "attempts": 0,
+            "completion_timestamp": null
+          },
+          {
+            "action_id": "action_5_2",
+            "title": "Architecture and Design",
+            "description": "Learn data architecture and design principles",
+            "success_criteria": "Design and implement a complex data architecture",
+            "status": "pending",
+            "questions": [],
+            "user_answers": [],
+            "relevance_score": 0.0,
+            "agent_satisfied": false,
+            "attempts": 0,
+            "completion_timestamp": null
+          },
+          {
+            "action_id": "action_5_3",
+            "title": "Mentorship and Knowledge Sharing",
+            "description": "Mentor junior engineers and share knowledge",
+            "success_criteria": "Mentor a junior engineer and receive positive feedback",
+            "status": "pending",
+            "questions": [],
+            "user_answers": [],
+            "relevance_score": 0.0,
+            "agent_satisfied": false,
+            "attempts": 0,
+            "completion_timestamp": null
+          }
+        ],
+        "status": "pending",
+        "completion_percentage": 0.0
+      }
+    ],
+    "current_step_number": 1,
+    "completed_steps": [],
+    "created_at": "2026-01-24T01:44:43.271812",
+    "status": "in_progress"
+  },
+  "reroute_state": {
+    "is_rerouting": false,
+    "original_roadmap_id": null,
+    "alternative_roadmaps": [],
+    "selected_alternative_id": null,
+    "alternative_completion_percentage": 0.0,
+    "redirect_to_step": null,
+    "reroute_timestamp": null,
+    "reroute_reason": null
+  },
+  "progress": {
+    "completed_steps": [],
+    "current_step": null,
+    "blockers": [],
+    "time_spent_hours": 0.0,
+    "completion_rate": 0.0,
+    "last_activity": null,
+    "active_stage": 1,
+    "stage_completion_rate": 0.0,
+    "stage_progression_history": [],
+    "next_stage_generated_at": null,
+    "next_action_allocated": null,
+    "last_allocation_time": null
+  },
+  "reroute_history": {
+    "failed_paths": [],
+    "reroute_reasons": [],
+    "alternative_suggestions": [],
+    "reroute_count": 0,
+    "selected_alternative": null,
+    "applied_changes": []
+  },
+  "current_actions": {
+    "pending_actions": [
+      {
+        "action_id": "action_1",
+        "title": "Complete Codecademy Python Course Modules 1-3",
+        "description": "Finish modules 1-3 of the Codecademy Python course",
+        "type": "learning",
+        "estimated_hours": 6,
+        "estimated_days": 3,
+        "priority": "high",
+        "impact_score": 8,
+        "effort_score": 4,
+        "prerequisites": [],
+        "success_criteria": "Complete modules 1-3 with a score of 80% or higher",
+        "resources": [
+          {
+            "title": "Codecademy Python Course",
+            "url": "https://www.codecademy.com/learn/learn-python",
+            "type": "course"
+          }
+        ],
+        "tips": [
+          "Set aside dedicated time to focus on learning",
+          "Practice coding exercises regularly"
+        ],
+        "stage": 1,
+        "status": "pending"
+      },
+      {
+        "action_id": "action_2",
+        "title": "Read Python Crash Course Book Chapters 1-3",
+        "description": "Read and take notes on chapters 1-3 of the Python Crash Course book",
+        "type": "learning",
+        "estimated_hours": 8,
+        "estimated_days": 4,
+        "priority": "medium",
+        "impact_score": 7,
+        "effort_score": 5,
+        "prerequisites": [],
+        "success_criteria": "Complete reading and note-taking on chapters 1-3",
+        "resources": [
+          {
+            "title": "Python Crash Course Book",
+            "url": "https://www.amazon.com/Python-Crash-Course-2nd-Edition",
+            "type": "book"
+          }
+        ],
+        "tips": [
+          "Take detailed notes on key concepts",
+          "Review notes regularly to reinforce learning"
+        ],
+        "stage": 1,
+        "status": "pending"
+      },
+      {
+        "action_id": "action_3",
+        "title": "Complete Python Project 1",
+        "description": "Complete a simple Python project to practice skills",
+        "type": "project",
+        "estimated_hours": 10,
+        "estimated_days": 5,
+        "priority": "high",
+        "impact_score": 9,
+        "effort_score": 6,
+        "prerequisites": [
+          "action_1",
+          "action_2"
+        ],
+        "success_criteria": "Complete a working Python project that demonstrates understanding of basics",
+        "resources": [
+          {
+            "title": "Python Project Ideas",
+            "url": "https://www.python.org/about/gettingstarted/projects/",
+            "type": "website"
+          }
+        ],
+        "tips": [
+          "Start with a simple project to build confidence",
+          "Don't be afraid to ask for help when needed"
+        ],
+        "stage": 1,
+        "status": "pending"
+      }
+    ],
+    "completed_actions": [],
+    "priority_actions": [
+      "action_1",
+      "action_3"
+    ]
+  },
+  "metadata": {
+    "total_sessions": 0,
+    "agent_interaction_count": {
+      "Student Profiling Agent": 1,
+      "Goal Interpretation Agent": 1,
+      "Goal Readiness & Confidence Assessment Agent": 1,
+      "Market Intelligence Agent": 1,
+      "Career Path Planning Agent": 1,
+      "Action & Recommendation Agent": 1
+    },
+    "system_events": [
+      {
+        "agent": "Student Profiling Agent",
+        "event_type": "profile_analyzed",
+        "timestamp": "2026-01-24T01:43:18.678960",
+        "details": {
+          "experience_level": "beginner",
+          "skills_count": 4
+        }
+      },
+      {
+        "agent": "Goal Interpretation Agent",
+        "event_type": "goal_interpreted",
+        "timestamp": "2026-01-24T01:43:24.636708",
+        "details": {
+          "original_goal": {
+            "experience_level": "Fresh Graduate",
+            "learning_capacity": "High",
+            "education": "Bachelors in Artificial Intelligence And Data science",
+            "specialization": "ML engineer",
+            "years_experience": 0,
+            "location": "India",
+            "programming_langs": [
+              "Python"
+            ],
+            "frameworks": [
+              "Django"
+            ],
+            "strength_areas": [
+              "Problem Solving"
+            ],
+            "risk_factors": [
+              "Limited networking"
+            ],
+            "target_role": "Senior Data Engineer",
+            "motivation": 7,
+            "projects": [
+              "Built ML classifier",
+              "built DL classifier"
+            ],
+            "timeline_months": 12,
+            "weekly_commitment": "10-15 hours/week",
+            "availability": "Full-time",
+            "learning_style": [
+              "Hands-on projects",
+              "Online courses"
+            ],
+            "vision": "I want to be great, best , iconic ml engineer to ever exist"
+          },
+          "interpreted_role": "Senior Data Engineer",
+          "clarity_score": 0.9
+        }
+      },
+      {
+        "agent": "Goal Readiness & Confidence Assessment Agent",
+        "event_type": "readiness_scored",
+        "timestamp": "2026-01-24T01:43:31.166587",
+        "details": {
+          "confidence_score": 0.2,
+          "readiness": "not_ready",
+          "answers_evaluated": false,
+          "questions_generated": false
+        }
+      },
+      {
+        "agent": "Market Intelligence Agent",
+        "event_type": "market_analyzed",
+        "timestamp": "2026-01-24T01:43:37.545356",
+        "details": {
+          "role": "Senior Data Engineer",
+          "demand_score": 85,
+          "trend": "growing"
+        }
+      },
+      {
+        "agent": "Career Path Planning Agent",
+        "event_type": "path_generated",
+        "timestamp": "2026-01-24T01:43:44.708377",
+        "details": {
+          "path_id": "e22f593a-e157-4074-a1a5-5cd104f255c9",
+          "target_role": "Senior Data Engineer",
+          "success_probability": 0.4,
+          "steps_count": 5
+        }
+      },
+      {
+        "agent": "Action & Recommendation Agent",
+        "event_type": "actions_generated",
+        "timestamp": "2026-01-24T01:43:51.882461",
+        "details": {
+          "actions_count": 3,
+          "high_priority_count": 2
+        }
+      }
+    ]
+  }
+}

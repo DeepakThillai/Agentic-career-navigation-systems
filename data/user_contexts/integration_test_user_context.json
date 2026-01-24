@@ -1,0 +1,175 @@
+{
+  "user_id": "integration_test_user",
+  "created_at": "2026-01-24T01:51:55.457494",
+  "last_updated": "2026-01-24T01:51:55.457992",
+  "student_profile": {
+    "personal_info": {
+      "education": null,
+      "current_year": null,
+      "institution": null
+    },
+    "experience_level": null,
+    "technical_skills": {},
+    "soft_skills": [],
+    "strength_areas": [],
+    "weakness_areas": [],
+    "learning_capacity": null,
+    "risk_factors": [],
+    "projects": [],
+    "experience": null
+  },
+  "career_goals": {
+    "current_goal": null,
+    "interpreted_goal": null,
+    "goal_history": [],
+    "goal_clarity_score": 0.0,
+    "commitment_level": null
+  },
+  "readiness": {
+    "confidence_score": 0.0,
+    "deviation_risk": null,
+    "weak_areas": [],
+    "diagnostic_questions": [],
+    "diagnostic_answers": [],
+    "readiness_verdict": null,
+    "last_assessed": null
+  },
+  "market_context": {
+    "target_role_analysis": null,
+    "last_market_check": null,
+    "market_trends": []
+  },
+  "active_path": {
+    "path_id": null,
+    "target_role": null,
+    "primary_path": null,
+    "fallback_paths": [],
+    "success_probability": 0.0,
+    "created_at": null,
+    "status": "not_started",
+    "original_target_role": null,
+    "path_change_history": [],
+    "current_path_type": "original"
+  },
+  "roadmap": {
+    "roadmap_id": "path_integration_test_user_1769199715",
+    "total_steps": 4,
+    "steps": [
+      {
+        "step_number": 1,
+        "title": "Core Python Mastery",
+        "description": "Master Python fundamentals and advanced concepts",
+        "skills_to_learn": [
+          "Python OOP",
+          "Design Patterns",
+          "Async/await"
+        ],
+        "resources": [
+          "Python official docs",
+          "Real Python",
+          "Raymond Hettinger talks"
+        ],
+        "duration_weeks": 4,
+        "difficulty": "medium",
+        "success_criteria": "Complete projects: Bank system, Chat app with async"
+      },
+      {
+        "step_number": 2,
+        "title": "Database & SQL",
+        "description": "Master SQL and relational database design",
+        "skills_to_learn": [
+          "SQL",
+          "Relational design",
+          "Optimization"
+        ],
+        "resources": [
+          "PostgreSQL docs",
+          "Database Design book"
+        ],
+        "duration_weeks": 3,
+        "difficulty": "medium",
+        "success_criteria": "Build optimized multi-table queries, design schema"
+      },
+      {
+        "step_number": 3,
+        "title": "Backend Frameworks",
+        "description": "Master Django/FastAPI and REST API development",
+        "skills_to_learn": [
+          "FastAPI",
+          "ORM usage",
+          "API design"
+        ],
+        "resources": [
+          "FastAPI docs",
+          "Real Python FastAPI course"
+        ],
+        "duration_weeks": 4,
+        "difficulty": "medium",
+        "success_criteria": "Build production-ready API with authentication"
+      },
+      {
+        "step_number": 4,
+        "title": "System Design & Performance",
+        "description": "Learn scalability, caching, and performance optimization",
+        "skills_to_learn": [
+          "Redis",
+          "Load balancing",
+          "Monitoring"
+        ],
+        "resources": [
+          "System Design Primer",
+          "Designing Data-Intensive Apps"
+        ],
+        "duration_weeks": 4,
+        "difficulty": "hard",
+        "success_criteria": "Design scalable system, optimize for performance"
+      }
+    ],
+    "current_step_number": 1,
+    "completed_steps": [],
+    "created_at": "2026-01-24T01:51:55.457494",
+    "status": "generated"
+  },
+  "reroute_state": {
+    "is_rerouting": false,
+    "original_roadmap_id": null,
+    "alternative_roadmaps": [],
+    "selected_alternative_id": null,
+    "alternative_completion_percentage": 0.0,
+    "redirect_to_step": null,
+    "reroute_timestamp": null,
+    "reroute_reason": null
+  },
+  "progress": {
+    "completed_steps": [],
+    "current_step": null,
+    "blockers": [],
+    "time_spent_hours": 0.0,
+    "completion_rate": 0.0,
+    "last_activity": null,
+    "active_stage": 1,
+    "stage_completion_rate": 0.0,
+    "stage_progression_history": [],
+    "next_stage_generated_at": null,
+    "next_action_allocated": null,
+    "last_allocation_time": null
+  },
+  "reroute_history": {
+    "failed_paths": [],
+    "reroute_reasons": [],
+    "alternative_suggestions": [],
+    "reroute_count": 0,
+    "selected_alternative": null,
+    "applied_changes": []
+  },
+  "current_actions": {
+    "pending_actions": [],
+    "completed_actions": [],
+    "priority_actions": []
+  },
+  "metadata": {
+    "total_sessions": 0,
+    "agent_interaction_count": {},
+    "system_events": []
+  }
+}
