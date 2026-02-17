@@ -19,7 +19,7 @@ if not os.getenv("GROQ_API_KEY") and not os.getenv("GROQ_API_KEY_1"):
     os.environ["GROQ_API_KEY"] = "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"
 
 # Initialize API Key Manager
-try:
+try:    
     from backend.utils.api_key_manager import initialize_key_manager
     key_manager = initialize_key_manager()
     key_count = key_manager.get_key_count()
